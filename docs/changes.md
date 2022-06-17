@@ -5,7 +5,7 @@
 - [MagiskInit] Update 2SI implementation, significantly increase device compatibility (e.g. Sony Xperia devices)
 - [MagiskInit] Introduce new `sepolicy` injection mechanism
 - [MagiskInit] Support Oculus Go
-- [MagiskInit] Support Android 13 GKIs (Pixel 6)
+- [MagiskInit] Support Android 12 GKIs (Pixel 6)
 - [MagiskBoot] Fix vbmeta extraction implementation
 - [App] Fix stub app on older Android versions
 - [App] [MagiskSU] Properly support apps using `sharedUserId`
